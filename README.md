@@ -1,5 +1,5 @@
-## Hi! I'm Cecilia Qian  
-MACSS Student @ UC Berkeley| User Researcher | Data Analyst  
+## Hi! I'm Zhilie(Cecilia) Qian  
+MACSS Student @ UC Berkeley | User Researcher | Data Analyst  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhilieqian/)
 
