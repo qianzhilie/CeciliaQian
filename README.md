@@ -1,7 +1,7 @@
 ## Hi! I'm Cecilia Qian  
 MACSS Student @ UC Berkeley| User Researcher | Data Analyst  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhilieqian/)
 
 ### 🚀 About Me  
 I'm a **Master of Computational Social Science student** with a background in **psychology and informatics**, passionate about blending **behavioral science and data analytics**. My work focuses on **user research, product insights, and data-driven decision-making**, especially in interactive experiences like games and digital products.
